@@ -18,5 +18,5 @@
 ## Lectures
 
 
-[Module 1: Elementary Electrostatics and Coulomb's Law](Notes/Lect_01_Elementary_Electrostatics__Coulombs_Law.pdf)
-[Module 2: Electric Fields in Vacuum](Notes/Lect_02_Electric_Fields_In_Vacuum.pdf)
+*[Module 1: Elementary Electrostatics: Coulomb's Law](Notes/Lect_01_Elementary_Electrostatics__Coulombs_Law.pdf)
+*[Module 2: Electric Fields in Vacuum](Notes/Lect_02_Electric_Fields_In_Vacuum.pdf)

@@ -13,5 +13,5 @@
 
 
 
-[Link Text](/Notes
+[Link Text](Notes
 /Lect_02_Electric_Fields_In_Vacuum.pdf)

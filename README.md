@@ -13,4 +13,5 @@
 
 
 
-[Link Text](path/to/your/file.pdf)
+[Link Text](/Notes
+/Lect_02_Electric_Fields_In_Vacuum.pdf)

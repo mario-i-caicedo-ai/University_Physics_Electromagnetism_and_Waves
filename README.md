@@ -13,4 +13,4 @@
 
 
 
-[Link Text](Notes/Lect_02_Electric_Fields_In_Vacuum.pdf)
+[Module 2: Electric Fields in Vacuum](Notes/Lect_02_Electric_Fields_In_Vacuum.pdf)

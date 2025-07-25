@@ -23,3 +23,5 @@
 * [Module 2: Electric Fields in Vacuum](Notes/Lect_02_Electric_Fields_In_Vacuum.pdf)
 
 * [Module 3: Gauss's Law](Notes/Lect_03_Gauss_Law.pdf)
+
+* [Module 4: Conductors and Insulators](Notes/Lect_04_Conductors_and_Insulators.pdf)

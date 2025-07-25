@@ -30,4 +30,4 @@
 
 * [Module 6: Capacitance](Notes/Lect_06_Capacitance.pdf)
 
-* [Module 7:]
+* [Module 7: Electrostatic Energy](Notes/Lect_07_Electrostatic_Energy.pdf)

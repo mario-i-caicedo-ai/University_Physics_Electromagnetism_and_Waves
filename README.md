@@ -26,7 +26,7 @@
 
 * [Module 4: Conductors and Insulators](Notes/Lect_04_Conductors_and_Insulators.pdf)
 
-* [Module 5: Electrostatic Potential](Notes/Lect_05_Electric_Potential.pdf)
+* [Module 5: Electrostatic Potential](Notes/Lect_05_Electrostatic_Potential.pdf)
 
 * [Module 6]
 

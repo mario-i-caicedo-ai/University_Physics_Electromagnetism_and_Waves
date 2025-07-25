@@ -25,3 +25,9 @@
 * [Module 3: Gauss's Law](Notes/Lect_03_Gauss_Law.pdf)
 
 * [Module 4: Conductors and Insulators](Notes/Lect_04_Conductors_and_Insulators.pdf)
+
+* [Module 5: ]
+
+* [Module 6]
+
+* [Module 7:]

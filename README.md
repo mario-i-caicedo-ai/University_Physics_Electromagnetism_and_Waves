@@ -28,6 +28,6 @@
 
 * [Module 5: Electrostatic Potential](Notes/Lect_05_Electrostatic_Potential.pdf)
 
-* [Module 6]
+* [Module 6: Capacitance](Notes/Lect_06_Capacitance.pdf)
 
 * [Module 7:]

@@ -7,9 +7,10 @@
 </p>
 
 
-# 
 
 ## Description
+
+This is the material I present in Houston Community College calculus based course on electromagnetism and waves.
 
 
 ## Bibliography

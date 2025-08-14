@@ -12,7 +12,11 @@
 ## Description
 
 
+## Bibliography
 
+1. David Halliday, Robert Resnick, Jearl Walker. Fundamentals of Physics. Wiley, 2018. This is the official text for the course
+
+2. Marcelo Alonso, Edward J. Finn. Fundamental University Physics, Volume 2. Addison-Wesley, 1983. A classic, this is an excellent book.
 
 
 ## Lectures

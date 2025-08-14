@@ -61,7 +61,7 @@ In this course, we will explore some of these fundamental ideas in detail, showi
 
 * [Module 13: Electric Circuits II](Notes/Lect_13_Oscillating_Circuits_and_Alternating_Currents.pdf)
 
-* [Module 14: Maxwell's Equations](Notes/Lect_13_Oscillating_Circuits_and_Alternating_Currents (1).pdf)
+* [Module 14: Maxwell's Equations](Notes/Lect_14_Maxwell_s_Equations.pdf)
 
 * [Module 15: Introduction to Travelling Waves](Notes/Lect_15_Introduction_to_Travelling_Waves.pdf)
 

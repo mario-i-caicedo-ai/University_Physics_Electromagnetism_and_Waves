@@ -53,4 +53,12 @@ In this course, we will explore some of these fundamental ideas in detail, showi
 
 * [Module 9: Electric Circuits I](Notes/Lect_09_Electric_Circuits_I.pdf)
 
-* [Module 10: ](Notes/Lect_08_Electric_Current.pdf)
+* [Module 10: Magnetic Fields](Notes/Lect_10_Magnetic_Fields.pdf)
+
+* [Module 11: Faraday Law of Induction](Notes/LECT_11_Faraday__Law (1).pdf)
+
+* [Module 12: Inductance and Magnetic Energy](Notes/Lect_12_Inductance_and_Magnetic_Energy (1).pdf)
+
+* [Module 13: Electric Circuits II](Notes/Lect_13_Oscillating_Circuits_and_Alternating_Currents (1).pdf)
+
+* [Module 14:  ](Notes/Lect_13_Oscillating_Circuits_and_Alternating_Currents (1).pdf)

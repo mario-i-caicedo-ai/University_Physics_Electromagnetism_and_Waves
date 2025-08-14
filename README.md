@@ -49,8 +49,8 @@ In this course, we will explore some of these fundamental ideas in detail, showi
 
 * [Module 7: Electrostatic Energy](Notes/Lect_07_Electrostatic_Energy.pdf)
 
-* [Module 8: Electric Current](Lect_08_Electric_Current.pdf)
+* [Module 8: Electric Current](Notes/Lect_08_Electric_Current.pdf)
 
-* [Module 9: ](Lect_08_Electric_Current.pdf)
+* [Module 9: ](Notes/Lect_08_Electric_Current.pdf)
 
-* [Module 10: ](Lect_08_Electric_Current.pdf)
+* [Module 10: ](Notes/Lect_08_Electric_Current.pdf)

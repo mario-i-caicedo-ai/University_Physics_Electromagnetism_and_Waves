@@ -59,7 +59,7 @@ In this course, we will explore some of these fundamental ideas in detail, showi
 
 * [Module 12: Inductance and Magnetic Energy](Notes/Lect_12_Inductance_and_Magnetic_Energy.pdf)
 
-* [Module 13: Electric Circuits II](Notes/Lect_13_Oscillating_Circuits_and_Alternating_Currents (1).pdf)
+* [Module 13: Electric Circuits II](Notes/Lect_13_Oscillating_Circuits_and_Alternating_Currents.pdf)
 
 * [Module 14: Electric Circuits II](Notes/Lect_13_Oscillating_Circuits_and_Alternating_Currents (1).pdf)
 

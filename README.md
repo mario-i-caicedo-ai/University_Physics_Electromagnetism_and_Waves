@@ -65,5 +65,5 @@ Github may have difficulties when trying to display complex documents. If you fi
 
 * [Module 15: Introduction to Travelling Waves](Notes/Lect_15_Introduction_to_Travelling_Waves.pdf)
 
-* [Module 16: Electromagnetic Waves and Energy. THe Poynting Vector](Notes/Lect_16_EM_Waves_and_Energy__Poynting_Vector.pdf)
+* [Module 16: Electromagnetic Waves and Energy. The Poynting Vector](Notes/Lect_16_EM_Waves_and_Energy__Poynting_Vector.pdf)
 

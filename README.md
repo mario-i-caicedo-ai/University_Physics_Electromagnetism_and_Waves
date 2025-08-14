@@ -51,6 +51,6 @@ In this course, we will explore some of these fundamental ideas in detail, showi
 
 * [Module 8: Electric Current](Notes/Lect_08_Electric_Current.pdf)
 
-* [Module 9: ](Notes/Lect_08_Electric_Current.pdf)
+* [Module 9: Electric Circuits I](Notes/Lect_09_Electric_Circuits_I.pdf)
 
 * [Module 10: ](Notes/Lect_08_Electric_Current.pdf)

@@ -1,12 +1,10 @@
 # UNIVERSITY PHYSICS
 
-## Electromagnetism and Waves
-
-
 <p align="center">
   <img src="./pics/AA_fun_11.jpg" width="300" title="hover text">
 </p>
 
+## Electromagnetism and Waves
 
 
 ## Description

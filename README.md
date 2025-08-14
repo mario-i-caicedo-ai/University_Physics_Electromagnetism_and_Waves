@@ -21,11 +21,15 @@ In this course, we will explore these fundamental ideas in detail, showing how t
 
 ## Bibliography
 
-1. David Halliday, Robert Resnick, Jearl Walker. Fundamentals of Physics. Wiley, 2018. This is the official text for the course
+1. David Halliday, Robert Resnick, Jearl Walker. **Fundamentals of Physics**. Wiley, 2018. This is the official text for the course
 
-2. Marcelo Alonso, Edward J. Finn. Fundamental University Physics, Volume 2. Addison-Wesley, 1983. A classic, this is an excellent book.
+2. Marcelo Alonso, Edward J. Finn. **Fundamental University Physics**, Volume 2. Addison-Wesley, 1983. A classic, this is an excellent book.
 
-3. [Electricity and Magnetism. Berkeley Physics Course, Vol II.](https://en.wikipedia.org/wiki/Berkeley_Physics_Course)
+3. [**Electricity and Magnetism**. Berkeley Physics Course, Vol II.](https://en.wikipedia.org/wiki/Berkeley_Physics_Course)
+
+4. [**Waves**. Berkeley Physics Course, Vol III.](https://en.wikipedia.org/wiki/Berkeley_Physics_Course)
+
+5. A. P. Fench. **Vibrations and Waves**. CRC Press, 1971.
 
 
 ## Lectures

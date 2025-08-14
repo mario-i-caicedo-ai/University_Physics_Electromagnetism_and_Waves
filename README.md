@@ -33,6 +33,7 @@ In this course, we will explore some of these fundamental ideas in detail, showi
 
 ## Lectures
 
+Github may have difficulties when trying to display complex documents. If you find anysuch problem, just go to the NOTES section and download the pdf file.
 
 * [Module 1: Elementary Electrostatics: Coulomb's Law](Notes/Lect_01_Elementary_Electrostatics__Coulombs_Law.pdf)
 

@@ -55,7 +55,7 @@ In this course, we will explore some of these fundamental ideas in detail, showi
 
 * [Module 10: Magnetic Fields](Notes/Lect_10_Magnetic_Fields.pdf)
 
-* [Module 11: Faraday Law of Induction](Notes/LECT_11_Faraday__Law (1).pdf)
+* [Module 11: Faraday Law of Induction](Notes/Lect_11_Faraday_Law.pdf)
 
 * [Module 12: Inductance and Magnetic Energy](Notes/Lect_12_Inductance_and_Magnetic_Energy (1).pdf)
 

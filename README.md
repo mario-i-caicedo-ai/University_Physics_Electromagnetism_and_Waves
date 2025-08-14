@@ -10,12 +10,10 @@
 
 ## Description
 
-This is the material I present in my Houston Community College calculus-based course on electromagnetism and waves.
+This is the material I present in my **Houston Community College** calculus-based course on electromagnetism and waves.
 
 Electromagnetic theory, as we understand it today, is a crowning achievement of 19th-century physics, with its foundation laid by the groundbreaking work of Michael Faraday and its completion by James Clerk Maxwell. Faraday, through a series of ingenious experiments, introduced the revolutionary concept of fields to explain electromagnetic phenomena, moving away from the idea of "action at a distance." He demonstrated that a changing magnetic field could induce an electric current—a principle known as electromagnetic induction, which is the basis for all electric generators and transformers. Building upon Faraday's experimental insights, Maxwell unified the separate laws of electricity and magnetism into a single, coherent mathematical framework. His set of four equations, now known as Maxwell's Equations, not only synthesized the work of Faraday and others but also made a stunning prediction: that changing electric and magnetic fields could propagate through space as a self-sustaining wave. This wave, which travels at the speed of light, proved that light itself is an electromagnetic phenomenon, thereby unifying optics with electricity and magnetism.
 
-
-Licensed by Google
 Maxwell’s prediction of light as an electromagnetic wave is a perfect example of the broader concept of waves. In a general sense, a wave is a disturbance or oscillation that travels through space and matter, transferring energy from one point to another without the permanent transfer of matter itself. Waves can be categorized into two main types: mechanical waves and electromagnetic waves. Mechanical waves, such as sound waves and water waves, require a physical medium to travel through and are caused by the vibration of particles within that medium. Electromagnetic waves, on the other hand, do not need a medium and can propagate through the vacuum of space. Both types of waves are characterized by fundamental properties like wavelength (the distance between two consecutive peaks), frequency (the number of oscillations per second), and amplitude (the maximum displacement from the equilibrium position), with their speed determined by the properties of the medium or vacuum they travel through.
 
 In this course, we will explore these fundamental ideas in detail, showing how they form the basis for much of our modern technology and shape our everyday lives.

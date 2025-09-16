@@ -37,11 +37,13 @@ Github may have difficulties when trying to display complex documents. If you fi
 
 * [Module 1: Elementary Electrostatics: Coulomb's Law](Notes/Lect_01_Elementary_Electrostatics__Coulombs_Law.pdf)
 
-    [Torsion balance and Coulomb's Law (video)](https://www.youtube.com/watch?v=p9R-0DN0NrI)
+    * [Torsion balance and Coulomb's Law (video)](https://www.youtube.com/watch?v=p9R-0DN0NrI)
 
-    [Electric charges and forces. Lecture by Walter Lewin (video)](https://www.youtube.com/watch?v=x1-SibwIPM4)
+    * [Electric charges and forces. Lecture by Walter Lewin (video)](https://www.youtube.com/watch?v=x1-SibwIPM4)
 
 * [Module 2: Electric Fields in Vacuum](Notes/Lect_02_Electric_Fields_In_Vacuum.pdf)
+
+    * [Electric Field (and Gauss' Law (video)][https://www.youtube.com/watch?v=wq9TjQZDrAA]
 
 * [Module 3: Gauss's Law](Notes/Lect_03_Gauss_Law.pdf)
 

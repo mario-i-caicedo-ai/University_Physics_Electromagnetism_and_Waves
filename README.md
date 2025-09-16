@@ -43,7 +43,7 @@ Github may have difficulties when trying to display complex documents. If you fi
 
 * [Module 2: Electric Fields in Vacuum](Notes/Lect_02_Electric_Fields_In_Vacuum.pdf)
 
-    * [Electric Field (and Gauss' Law (video)][https://www.youtube.com/watch?v=wq9TjQZDrAA]
+    * [Electric Field and Gauss' Law (video)][https://www.youtube.com/watch?v=wq9TjQZDrAA]
 
 * [Module 3: Gauss's Law](Notes/Lect_03_Gauss_Law.pdf)
 

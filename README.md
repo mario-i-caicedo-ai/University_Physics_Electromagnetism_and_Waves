@@ -37,7 +37,7 @@ Github may have difficulties when trying to display complex documents. If you fi
 
 * [Module 1: Elementary Electrostatics: Coulomb's Law](Notes/Lect_01_Elementary_Electrostatics__Coulombs_Law.pdf)
 
-  [Coulomb's Law (video](https://www.youtube.com/watch?v=p9R-0DN0NrI)
+    [Coulomb's Law (video)](https://www.youtube.com/watch?v=p9R-0DN0NrI)
 
 * [Module 2: Electric Fields in Vacuum](Notes/Lect_02_Electric_Fields_In_Vacuum.pdf)
 

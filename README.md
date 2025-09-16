@@ -9,7 +9,7 @@
 
 ## Description
 
-This is the material I present in my **Houston Community College** calculus-based course on electromagnetism and waves.
+This is the material I present in my **Houston City College** (formerly Houston Community College) **CALCULUS BASED** course on electromagnetism and waves.
 
 Electromagnetic theory, as we understand it today, is a crowning achievement of 19th-century physics, with its foundation laid by the groundbreaking work of Michael Faraday and its completion by James Clerk Maxwell. Faraday, through a series of ingenious experiments, introduced the revolutionary concept of fields to explain electromagnetic phenomena, moving away from the idea of "action at a distance." He demonstrated that a changing magnetic field could induce an electric current—a principle known as electromagnetic induction, which is the basis for all electric generators and transformers. Building upon Faraday's experimental insights, Maxwell unified the separate laws of electricity and magnetism into a single, coherent mathematical framework. His set of four equations, now known as Maxwell's Equations, not only synthesized the work of Faraday and others but also made a stunning prediction: that changing electric and magnetic fields could propagate through space as a self-sustaining wave. This wave, which travels at the speed of light, proved that light itself is an electromagnetic phenomenon, thereby unifying optics with electricity and magnetism.
 
